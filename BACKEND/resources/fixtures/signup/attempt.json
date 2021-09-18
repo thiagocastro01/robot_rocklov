@@ -1,0 +1,34 @@
+{
+    "empty_name": {
+        "name":"",
+        "email":"castrot@gmail.com",
+        "password": "pwd123"
+    },
+    "empty_email": {
+        "name":"thiago",
+        "email":"",
+        "password": "pwd123"
+    },
+    "empty_pass": {
+        "name":"thiago",
+        "email":"castrot@gmail.com",
+        "password": ""
+    },
+    "without_name": {
+        "email":"castrot@gmail.com",
+        "password": "pwd123"
+    },
+    "without_email": {
+        "name":"thiago",
+        "password": "pwd123"
+    },
+    "without_pass": {
+        "name":"thiago",
+        "email":"castrot@gmail.com"
+    },
+    "wrong_email": {
+        "name":"thiago",
+        "email":"castrot&gmail.com",
+        "password": "pwd123"
+    }
+}

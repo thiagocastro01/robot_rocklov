@@ -1,0 +1,8 @@
+{
+    "payload":{
+        "name": "Piano",
+        "category":"Teclas",
+        "price": 500
+    },
+    "thumb": "piano.png"
+}
